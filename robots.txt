@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://wooxeufoh.rubynlp.org/sitemap.xml
